@@ -1,0 +1,28 @@
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\bin\Debug\Registrar Ventas.exe.config
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\bin\Debug\Registrar Ventas.exe
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\bin\Debug\Registrar Ventas.pdb
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.csproj.AssemblyReference.cache
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.csproj.SuggestedBindingRedirects.cache
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.Form1.resources
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.Properties.Resources.resources
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.csproj.GenerateResource.cache
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.csproj.CoreCompileInputs.cache
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.exe
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.pdb
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.FormNuevaVenta.resources
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.Formlistarequiposdisponibles.resources
+E:\Actualizacion\Proyecto\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.FormCliente.resources
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\bin\Debug\Registrar Ventas.exe.config
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\bin\Debug\Registrar Ventas.exe
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\bin\Debug\Registrar Ventas.pdb
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.csproj.AssemblyReference.cache
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.Form1.resources
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.FormCliente.resources
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.Formlistarequiposdisponibles.resources
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.FormNuevaVenta.resources
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar_Ventas.Properties.Resources.resources
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.csproj.GenerateResource.cache
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.exe
+C:\Users\DANIEL\Desktop\Proyecto Venta De Computadoras\Registrar Ventas\Registrar Ventas\obj\Debug\Registrar Ventas.pdb
